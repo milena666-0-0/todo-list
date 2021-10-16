@@ -1,0 +1,14 @@
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon:hover {
+    opacity: 0.7;
+}
+
+.important {
+    background: rgba(11, 231, 84, 0.466);
+    color: rgb(25, 95, 48);
+}
+

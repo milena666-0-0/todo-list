@@ -1,0 +1,10 @@
+.context {
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.title {
+    color: rgb(49, 48, 48);
+    margin-bottom: 20px;
+}
